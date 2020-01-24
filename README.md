@@ -2,7 +2,7 @@
 
 ## Like and Love Buttons
 
-This is a simple front-end app that demos a like button and a love button. Below each button, the click count on each button is displayed.
+This is a simple front-end app that demos a like button and a love button. Below each button, the click count on each button is displayed. As a user, you can click on a button and watch its count increase each time.
 
 <p align="left">
 <img src="public/main-view.png"
