@@ -7,7 +7,7 @@ This is a simple front-end app that demos a like button and a love button. Below
 <p align="left">
 <img src="public/main-view.png"
      alt="Main View"
-     width="500px" height="auto" />
+     width="300px" height="300" />
 </p>
 
 ## How to Run the App
